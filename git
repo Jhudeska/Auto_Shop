@@ -11,3 +11,5 @@ git commit -a -m "MY MESSAGE HERE"
 
 To push your committed changes from your local repository to your remote repository:
 git push origin master
+
+git commit -a -m "index 1 aanpepast"
