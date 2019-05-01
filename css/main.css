@@ -72,6 +72,15 @@ body {
 .first{background-color: #000000;}
 .middle{ background-color: #79b2ac;}
 .last{background-color: #32ac95;}
+.car-details-first{
+    background-color: #32ac95;
+}
+.car-details-middle{
+
+}
+.car-details-last{
+
+}
 
 
 .title{
