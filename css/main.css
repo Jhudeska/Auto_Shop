@@ -7,18 +7,22 @@ aqua green  #32ac95
 
 
 
+
 body {
     font-family: roboto, sans-serif;
     position: relative;
 }
 
 
-.h1_center {
+.h1-center {
     text-align: center;
 }
 
+.h2-position{
 
-.p_description{
+}
+
+.p-description{
     text-align: center;
 }
 
@@ -31,24 +35,51 @@ body {
 
     /*center container*/
     transform: translate(23%, 15%);
-    left: 8%;
+    left: 16%;
     margin-left: 20px;
 }
 
-
-.model-preview-index-large{
+.model-preview-index-large-first{
     position: relative;
     width: 233px;
-    /*height: 406px;*/
-    height: 100%;
+    height: 257px;
+    /*height: 100%;*/
     float: left;
     color: white;
     text-align: center;
+    background-image: linear-gradient(to right bottom, rgb(119, 160, 158),rgb(119, 160, 158));
+    clip-path: polygon(0 0, 100% 0, 100% 24vh, 0 100%);
+    left: 1px;
 }
 
+
+.demo-2-first{
+    width: 233px;
+    height: 177px;
+    position: absolute;
+    z-index: -1;
+    bottom: 50%;
+    top: 225px;
+    left: 1px;
+}
+
+.demo-2-first img {
+    width: 233px;
+    height: 177px;
+}
+
+
+.demo-2-middle img{
+    position: relative;
+    width: 234px;
+    height: 178px;
+    left: -234px;
+    bottom: -183px;
+    z-index: -1;
+}
 .model-preview-index-small{
     width: 233px;
-    height: 100%;
+    height: 189px;
     /*height: 240px;*/
     float: left;
     text-align: center;
@@ -57,31 +88,42 @@ body {
     /* center model-preview-index-small */
     -ms-transform: translateY(-50%);
     transform: translateY(9%);
+    background-image: linear-gradient(to right bottom, rgb(121, 178, 172),rgb(121, 178, 172));
+    clip-path: polygon(0 0, 100% 0, 100% 17vh, 0 100%);
+    top: 7px;
+    position: relative;
 }
 
-.polygon{
-    clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
-    background-color: #77a09e;
-    height: 255px;
-    width: 100%;
-    z-index: 11;
-    color: #77a09e;
-
-    /*gradient genarot  before and after*/
-}
-.first{background-color: #000000;}
-.middle{ background-color: #79b2ac;}
-.last{background-color: #32ac95;}
-.car-details-first{
-    background-color: #32ac95;
-}
-.car-details-middle{
-
-}
-.car-details-last{
-
+.model-preview-index-large-last{
+    position: relative;
+    width: 233px;
+    height: 257px;
+    /*height: 100%;*/
+    float: left;
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(to right bottom, rgb(50, 172, 149),rgb(50, 172, 149));
+    clip-path: polygon(0 0, 100% 0, 100% 24vh, 0 100%);
+    top: -181px;
+    left: -1px;
 }
 
+.demo-2-last{
+    width: 233px;
+    height: 177px;
+    position: absolute;
+    z-index: -1;
+    bottom: 50%;
+    top: 225px;
+}
+
+.demo-2-last img {
+    position: relative;
+    width: 233px;
+    height: 177px;
+    left: 466px;
+    z-index: -1;
+}
 
 .title{
     display: inline-block;
@@ -101,20 +143,6 @@ body {
     z-index: 10;
 }
 
-.image img{
-    position: relative;
-    width: 233px;
-    height: 177px;
-    bottom: -5px;
-    z-index: 9;
-}
-
-.image-middle img{
-    position: relative;
-    width: 234px;
-    height: 178px;
-    bottom: -5px;
-}
 
 /*style button*/
 .btn {
@@ -126,7 +154,7 @@ body {
 }
 
 
-.btn-primary {
+.btn-white {
     background-color: #ffffff;
     color: #000;
     border-color: #ffffff;

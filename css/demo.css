@@ -1,0 +1,107 @@
+/*.polygon{*/
+/*position:relative;*/
+/*clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);*/
+/*background-color: #77a09e;*/
+/*height: 255px;*/
+/*width: 100%;*/
+/*z-index: 11;*/
+/*color: #77a09e;*/
+
+/*!*gradient genarot  before and after*!*/
+/*}*/
+
+
+.body{
+
+    background-image: url("../Skoda_Fabia.jpg");
+}
+/*.demo-1{*/
+
+    /*width: 100px;*/
+    /*height: 500px;*/
+    /*!*background-color: #32ac95;*!*/
+    /*!*background-image: linear-gradient(*!*/
+            /*!*to right bottom,*!*/
+            /*!*rgb(119,160,158),*!*/
+            /*!*url("Skoda_Fabia.jpg");*!*/
+            /*!*!*-90deg, red, yellow*!*!*/
+
+
+    /*);*/
+    /*clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);*/
+    /*!*background-image: linear-gradient(*!*/
+            /*!*to right bottom,*!*/
+            /*!*rgb(119,160,158),*!*/
+            /*!*url(../img/Skoda_Fabia.jpg);*!*/
+/*!*);*!*/
+/*}*/
+
+
+/*.demo-2{*/
+    /*left: 500px;*/
+    /*width: 215px;*/
+    /*height: 300px;*/
+    /*background-image: url("../Skoda_Fabia.jpg");*/
+    /*background-position: 20px 10px;*/
+    /*background-repeat: no-repeat;*/
+/*}*/
+
+.demo-2{
+    /*background-image: url("../img/Skoda_Fabia.jpg");*/
+    /*background-size: auto;*/
+    /*background-repeat: no-repeat;*/
+    width: 233px;
+    height: 177px;
+    position: absolute;
+    left: 20%;
+    z-index: -1;
+    bottom: 50%;
+}
+
+.header {
+    width: 233px;
+    height: 406px;
+    background-image: linear-gradient(to right bottom, rgb(119, 160, 158),rgb(119, 160, 158));
+    /*background-size: cover;*/
+    /*background-position: bottom;*/
+    /*background-repeat: no-repeat;*/
+    position: relative;
+    clip-path: polygon(0 0, 100% 0, 100% 35vh, 0 100%);
+
+
+    left: 20%;
+}
+.container{
+    position: relative;
+    width: 1000px;
+    height: 1000px;
+}
+
+/*style button*/
+.btn {
+    width: 214px;
+    height: 39px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.btn-white {
+    background-color: #ffffff;
+    color: #000;
+    border-color: #ffffff;
+    font-size: 14px;
+    z-index: 10;
+}
+
+
+.header__text-box {
+    position: relative;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center
+}
+
