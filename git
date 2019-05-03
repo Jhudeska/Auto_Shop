@@ -24,4 +24,35 @@ works if the branch you have checked out is tracking an upstream branch.
 For example, if the branch you have checked out tracks origin/master, git pull is equivalent to git pull origin master
 
 
+merge conflict https://stackoverflow.com/questions/161813/how-to-resolve-merge-conflicts-in-git
+
+
+
+
+SASS DOCUMENTATION
+=======================
+
+Ruby Sass has reached end-of-life and should no longer be used.
+
+* If you use Sass as a command-line tool, we recommend using Dart Sass, the new
+  primary implementation: https://sass-lang.com/install
+
+* If you use Sass as a plug-in for a Ruby web framework, we recommend using the
+  sassc gem: https://github.com/sass/sassc-ruby#readme
+
+* For more details, please refer to the Sass blog:
+  https://sass-lang.com/blog/posts/7828841
+
+Successfully installed sass-3.7.4
+Parsing documentation for sass-3.7.4
+Installing ri documentation for sass-3.7.4
+Done installing documentation for sass after 6 seconds
+e
+
+
+ sass --watch styles.sass:css/style.css
+
+
+
+
 https://www.vesterkopi.dk/en/help/561git re-convert-cm-to-pixels
