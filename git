@@ -7,8 +7,7 @@ To commit them:
 git commit -m "MY MESSAGE HERE" #-m is the message flag
 
 You can put those steps together like this:
-git commit -a -m "MY MESSAGE HERE"
-
+git commit -a -m "MY MESSAG
 To push your committed changes from your local repository to your remote repository:
 git push origin master
 
@@ -53,6 +52,7 @@ e
  sass --watch styles.sass:css/style.css
 
 
-
+CM TO Pixel converter
+=====================
 
 https://www.vesterkopi.dk/en/help/561git re-convert-cm-to-pixels
