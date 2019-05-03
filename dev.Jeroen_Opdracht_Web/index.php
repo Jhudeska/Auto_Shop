@@ -1,11 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: jhudeska
- * Date: 29/04/2019
- * Time: 21:00
- */
-?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -13,8 +5,8 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/main.css">
-    <title> Jhudeska | Auto Webshop</title>
+    <link rel="stylesheet" href="css/main.sass">
+    <title>dev.Jeroen_Opdracht_Web</title>
 </head>
 <body>
 
