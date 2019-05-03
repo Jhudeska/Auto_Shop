@@ -15,4 +15,13 @@ git push origin master
 git commit -a -m "index 1 aanpepast"
 
 
-https://www.vesterkopi.dk/en/help/561-convert-cm-to-pixels
+git pull origin master
+fetches commits from the master branch of the origin remote (into the local origin/master branch),
+and then it merges origin/master into the branch you currently have checked out.
+
+git pull only
+works if the branch you have checked out is tracking an upstream branch.
+For example, if the branch you have checked out tracks origin/master, git pull is equivalent to git pull origin master
+
+
+https://www.vesterkopi.dk/en/help/561git re-convert-cm-to-pixels

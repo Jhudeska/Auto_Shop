@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391c5d3c-8b55-41a9-b307-37065a029a9f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/git" beforeDir="false" afterPath="$PROJECT_DIR$/git" afterDir="false" />
-    </list>
+    <list default="true" id="391c5d3c-8b55-41a9-b307-37065a029a9f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/git">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="255">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -100,10 +98,10 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP on MAMP" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="131" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="964" />
     <option name="y" value="38" />
-    <option name="width" value="2424" />
+    <option name="width" value="1591" />
     <option name="height" value="1336" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -168,18 +166,18 @@
       <updated>1556627054037</updated>
       <workItem from="1556627055360" duration="193000" />
       <workItem from="1556627335440" duration="18106000" />
-      <workItem from="1556726024583" duration="216000" />
+      <workItem from="1556726024583" duration="379000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18515000" />
+    <option name="totallyTimeSpent" value="18678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="131" y="38" width="2424" height="1336" extended-state="0" />
+    <frame x="964" y="38" width="1591" height="1336" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13140218" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20206586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -255,8 +253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/git">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="255">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
