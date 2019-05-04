@@ -5,17 +5,25 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/main.sass">
-    <title>dev.Jeroen_Opdracht_Web</title>
+    <link rel="stylesheet" href="css/css/main.css">
+    <title> Jhudeska | dev.Jeroen_Opracht</title>
 </head>
 <body>
 
-<h1 class="h1-center">Opdracht voor Jhudeska</h1>
-<p class="p-description">Het is de bedoeling dat dit volledig weet te realiseren  met HTML 5 /CSS 3 als je eerste opdracht</p>
+<header class="header">
+        <div class="logo-box">
+            <img src="img/logo@2x.png" alt="logo" class="logo">
+        </div>
 
-<div class="container">
+        <div class="heading-primary">
+            <span class="heading-primary-main">Opdracht voor Jhudeska</span>
+            <p class="heading-primary-sub">Het is de bedoeling dat dit volledig weet te realiseren  met HTML 5 /CSS 3 als je eerste opdracht</p>
+        </div>
+</header>
 
 
+
+<section class="container">
     <div class="model-preview-block">
         <div class="model-preview-index-large-first">
             <div class="title"><h2 class="h2-position">FABIA</h2></div>
@@ -48,13 +56,16 @@
         </div>
         <div class="demo-2-last"><img src="img/Skodia_Octavia.jpg" alt=""></div>
     </div>
+</section>
 
+<footer class="footer">
+<div class="contact-details-box">
 
 </div>
+    <div class="about-details-box">
 
-
-
-
+    </div>
+</footer>
 
 </body>
 </html>

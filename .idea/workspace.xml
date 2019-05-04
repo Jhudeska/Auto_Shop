@@ -2,60 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="391c5d3c-8b55-41a9-b307-37065a029a9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/car-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/car-details.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_colors.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example_sass.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/logo@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/css/backup/car-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/backup/car-details.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/css/backup/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/backup/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/css/car-details.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/SASS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/SASS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/SASS/styles.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/SASS/styles.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/demo_envoirment/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/demo_envoirment/css/demo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/demo_envoirment/index_demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/demo_envoirment/index_demo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/lease_project/backup/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/lease_project/backup/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/lease_project/backup/lease.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/lease_project/backup/lease.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/lease_project/getamount.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/lease_project/getamount.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/lease_project/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/lease_project/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/img/Skoda_Fabia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/Skoda_Fabia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/img/Skoda_Kodiaq.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/Skoda_Kodiaq.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/img/Skodia_Octavia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/Skodia_Octavia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/public_html/car-details.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Auto_Shop" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/backup/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="563">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="git" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/git">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="57" selection-start-line="57" selection-end-line="57" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/backup/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_example_sass.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example_sass.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -65,7 +82,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="Sass File" />
       </list>
@@ -111,7 +127,6 @@
         <option value="$PROJECT_DIR$/css/css_origin/cardetails.sass" />
         <option value="$PROJECT_DIR$/css/css_origin/cardetails.css" />
         <option value="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/css/main.sass" />
-        <option value="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php" />
         <option value="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/public_html/car-details.php" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -121,21 +136,37 @@
         <option value="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/css/car-details.sass" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/css/car-details.css" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php" />
-        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" />
-        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/backup/main.css" />
+        <option value="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_partials.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/_reset.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/main.css" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example_sass.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_colors.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP on MAMP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.1.12" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1303" />
-    <option name="y" value="23" />
-    <option name="width" value="1218" />
-    <option name="height" value="1336" />
+    <option name="x" value="1211" />
+    <option name="y" value="109" />
+    <option name="width" value="1318" />
+    <option name="height" value="1145" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,7 +190,21 @@
             <path>
               <item name="Auto_Shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Auto_Shop" type="462c0819:PsiDirectoryNode" />
-              <item name="Jeroen_Opdracht_Webshop" type="462c0819:PsiDirectoryNode" />
+              <item name="dev.Jeroen_Opdracht_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auto_Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auto_Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="dev.Jeroen_Opdracht_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auto_Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auto_Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="dev.Jeroen_Opdracht_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,19 +221,19 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/demo_envoirment/css" />
-      <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/demo_envoirment" />
-      <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/public_html" />
-      <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web" />
-      <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/SASS" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/css/backup" />
       <recent name="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/css/backup" />
       <recent name="$PROJECT_DIR$/Jeroen_Opdracht_Webshop" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$USER_HOME$/Downloads" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css" />
+      <recent name="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img" />
+      <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/demo_envoirment/css" />
+      <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/general/demo_envoirment" />
+      <recent name="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/public_html" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,76 +261,69 @@
       <workItem from="1556627055360" duration="193000" />
       <workItem from="1556627335440" duration="18106000" />
       <workItem from="1556726024583" duration="17817000" />
+      <workItem from="1556970815737" duration="11079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36116000" />
+    <option name="totallyTimeSpent" value="49747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1303" y="23" width="1218" height="1336" extended-state="0" />
+    <frame x="1211" y="109" width="1318" height="1145" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26615646" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32980457" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32980457" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27767175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78203434" visible="true" weight="0.19827586" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959852" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.21796565" side_tool="true" visible="true" weight="0.19827586" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/vingerhoets1.css">
+    <entry file="file://$PROJECT_DIR$/css/demo.css" />
+    <entry file="file://$USER_HOME$/Downloads/vingerhoets1.css" />
+    <entry file="file://$USER_HOME$/Downloads/qarnet_css.css" />
+    <entry file="file://$USER_HOME$/Downloads/qarnet.css" />
+    <entry file="file://$PROJECT_DIR$/lease_project/backup/index.php" />
+    <entry file="file://$PROJECT_DIR$/css/demo.css" />
+    <entry file="file://$PROJECT_DIR$/css/car-details.css" />
+    <entry file="file://$PROJECT_DIR$/car-details.php" />
+    <entry file="file://$PROJECT_DIR$/index_demo.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/git">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="298" column="8" selection-start-line="298" selection-start-column="8" selection-end-line="298" selection-end-column="8" />
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/qarnet_css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="2466" column="40" selection-start-line="2458" selection-end-line="2466" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/qarnet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="5216" column="1" lean-forward="true" selection-start-line="5216" selection-start-column="1" selection-end-line="5216" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/car_details.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="28" column="57" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/vingerhoets1.css" />
+    <entry file="file://$USER_HOME$/Downloads/qarnet_css.css" />
+    <entry file="file://$USER_HOME$/Downloads/qarnet.css" />
+    <entry file="file://$PROJECT_DIR$/car_details.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc" />
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/lease_project/backup/lease.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="577">
@@ -296,27 +334,9 @@
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/lease_project/backup/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/SASS/style.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/SASS/style.css.map" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/SASS/styles.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -324,13 +344,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/SASS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/SASS/style.css" />
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/general/SASS/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -338,12 +352,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.sass">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/css_origin/main.css.sass">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.sass" />
+    <entry file="file://$PROJECT_DIR$/css/css_origin/main.css.sass" />
     <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/css/cardetails.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -360,16 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#90#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,14 +397,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.css.map" />
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -415,6 +408,16 @@
     <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/css/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="e#6#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -422,24 +425,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php">
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/backup/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_partials.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example_sass.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_colors.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="563">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/backup/main.css">
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="560">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="57" selection-start-line="57" selection-end-line="57" selection-end-column="64" />
         </state>
       </provider>
     </entry>

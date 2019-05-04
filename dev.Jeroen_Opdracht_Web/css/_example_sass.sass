@@ -1,0 +1,66 @@
+//=============================================================
+// /*partial example*/
+@import _partials
+
+//   =============================================================
+/* mixin example
+ A mixin lets you make groups of
+ CSS declarations that you want to reuse throughout your site.
+/*
+
+//  mixin
+=transform($property)
+  -webkit-transform: $property
+  -ms-transform: $property
+  transform: $property
+
+
+
+  .box
+  +transform(rotate(30deg))
+
+  @mixin -webkit-transform: 30deg
+  -moz-transform:
+  -ms-transform:
+  -o-transform:
+  transform:
+
+  @include transform(30)
+
+//==================================================================
+
+  @extend
+  /*Using @extend lets you share a set of CSS properties from one selector to another.
+  //It helps keep your Sass very DRY.*/
+
+/* This CSS will print because %message-shared is extended. */
+// Extend/Inheritance
+%message-shared
+  border: 1px solid #ccc
+  padding: 10px
+  color: #333
+
+
+// This CSS won't print because %equal-heights is never extended.
+%equal-heights // example %equal-heights is  never extends
+  display: flex
+  flex-wrap: wrap
+
+
+.message
+  @extend %message-shared //// example %message-shared is  extends
+
+
+.success
+  @extend %message-shared
+  border-color: green
+
+
+.error
+  @extend %message-shared
+  border-color: red
+
+
+.warning
+  @extend %message-shared
+  border-color: yellow
