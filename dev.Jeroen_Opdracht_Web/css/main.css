@@ -16,14 +16,20 @@ img {
   width: 320px;
   height: 200px; }
 
-ul {
+ul, ol {
   list-style: none; }
 
 h2 {
-  color: #32ac95; }
+  color: #ffffff; }
 
-a {
-  color: #32ac95; }
+a link {
+  color: red; }
+a visited {
+  color: greenyellow; }
+a hover {
+  color: deeppink; }
+a active {
+  color: orangered; }
 
 .header {
   position: fixed;
@@ -89,7 +95,7 @@ a {
 
 .li-items::before {
   position: relative;
-  content: url(../img/icons/kiss-dashboard.png);
+  content: " < ";
   top: -20%; }
 
 .about-box {
@@ -111,10 +117,16 @@ a {
   top: 350px;
   transform: translate(0%, 50%); }
 
-.main {
-  overflow: auto;
-  padding: 100px;
-  height: 2000px;
-  background-color: greenyellow; }
+.model-preview-index-large-first {
+  position: relative;
+  width: 233px;
+  height: 257px;
+  /*height: 100%; */
+  float: left;
+  color: white;
+  text-align: center;
+  background-image: linear-gradient(to right bottom, #77a09e, #77a09e);
+  clip-path: polygon(0 0, 100% 0, 100% 24vh, 0 100%);
+  left: 1px; }
 
 /*# sourceMappingURL=main.css.map */

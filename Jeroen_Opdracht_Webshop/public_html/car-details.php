@@ -15,7 +15,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/car-details.css">
+    <link rel="stylesheet" href="../css/backup/car-details.css">
 <!--    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">-->
     <title> Jeroen_Opdracht_Webshop</title>
 </head>
@@ -30,7 +30,7 @@
             <div class="title">FABIA HATCHBACK</div>
             <div class="type">Active</div>
         </div>
-        <div class="demo-2-first"><img src="img/Skoda_Fabia.jpg" alt=""></div>
+        <div class="demo-2-first"><img src="../img/Skoda_Fabia.jpg" alt=""></div>
         <div class="text-first">
             <div class="description-1">Standaard op de Active:</div>
             <div class="description"> Laadruimte tot 1.150 liter</div>
@@ -48,7 +48,7 @@
             <div class="title">FABIA HATCHBACK</div>
             <div class="type">Business Edition</div>
         </div>
-        <div class="demo-2-middle"><img src="img/Skoda_Fabia.jpg" alt=""></div>
+        <div class="demo-2-middle"><img src="../img/Skoda_Fabia.jpg" alt=""></div>
         <div class="text-middle">
             <div class="description-1">Extra bovenop de Active:</div>
             <div class="description"> Climate Control</div>
@@ -67,7 +67,7 @@
             <div class="title">FABIA HATCHBACK</div>
             <div class="type">Monte Carlo</div>
         </div>
-        <div class="demo-2-last"><img src="img/Skoda_Fabia.jpg" alt=""></div>
+        <div class="demo-2-last"><img src="../img/Skoda_Fabia.jpg" alt=""></div>
         <div class="text-last">
             <div class="description-1"> Extra bovenop de Active:</div>
             <div class="description"> Bluethooth telefoonverbinding</div>

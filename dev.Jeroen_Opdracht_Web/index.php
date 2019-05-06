@@ -5,21 +5,32 @@
     <div class="main">
 
 
-        <div class="model-box">
-            <div class="model-box-index-large first">
+        <div class="model-preview-block">
+      <div class="model-box">
+            <div class="model-box-index-large-first">
                 <div class="title"><h2>FABIA</h2></div>
                 <div class="type">Active</div>
                 <div class="description"> Stoere basis</div>
                 <div class="price">Vanaf €15.830</div>
                 <button onclick="location.href='public_html/car-details.php'" class="btn btn-white">Bekijk onze Fabia's</button>
             </div>
-            <div class="model-box-image"><img src="img/Skoda_Fabia.jpg" alt=""></div>
+            <div class="demo-2-first"><img src="img/Skoda_Fabia.jpg" alt=""></div>
         </div>
 
-
+<!--        <div class="model-preview-block">-->
+<!--            <div class="model-preview-index-large-first">-->
+<!--                <div class="title"><h2 class="h2-position">FABIA</h2></div>-->
+<!--                <div class="type">Active</div>-->
+<!--                <div class="description"> Stoere basis</div>-->
+<!--                <div class="price">Vanaf €15.830</div>-->
+<!--                <button class="btn btn-white">Bekijk onze Fabia's</button>-->
+<!--            </div>-->
+<!--            <div class="demo-2-first"><img src="img/Skoda_Fabia.jpg" alt=""></div>-->
+<!--        </div>-->
+<!---->
 <!--            <div class="model-preview-block">-->
 <!---->
-<!--                <div class="model-preview-index-small middle">-->
+<!--                <div class="model-preview-index-small-middle">-->
 <!--                    <div class="title"><h2>KODIAQ</h2></div>-->
 <!--                    <div class="type">Comfort</div>-->
 <!--                    <button class="btn btn-white">Bekijk onze Kodiaq's</button>-->

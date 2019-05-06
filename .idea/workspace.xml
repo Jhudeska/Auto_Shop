@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="391c5d3c-8b55-41a9-b307-37065a029a9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/icons/at-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/icons/facebook-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/icons/github-square-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/icons/linkedin-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/icons/map-signs-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/icons/phone-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/img/icons/twitter-square-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_colors.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_colors.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example_sass.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/public_html/car-details.php" beforeDir="false" afterPath="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/public_html/car-details.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_footer.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_footer.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_header.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_header.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/car-details.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/car-details.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_car-details-page.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,29 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_car-details-page.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_car-details-page.sass">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.sass" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="196">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -66,26 +35,26 @@
       <file leaf-file-name="_footer.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_footer.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="405">
+              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php">
+        <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="39" />
+            <state relative-caret-position="315">
+              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="35" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="car-details.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php">
+        <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/public_html/car-details.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="68" lean-forward="true" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+            <state relative-caret-position="601">
+              <caret line="98" lean-forward="true" selection-start-line="63" selection-end-line="98" />
             </state>
           </provider>
         </entry>
@@ -140,7 +109,6 @@
         <option value="$PROJECT_DIR$/css/css_origin/cardetails.sass" />
         <option value="$PROJECT_DIR$/css/css_origin/cardetails.css" />
         <option value="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/css/main.sass" />
-        <option value="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/public_html/car-details.php" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Oopdracht_Web/index.php" />
@@ -154,17 +122,18 @@
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/_reset.sass" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example_sass.sass" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_colors.sass" />
-        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/footer.php" />
-        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example.sass" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/header.php" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php" />
-        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_footer.sass" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_car-details-page.sass" />
-        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" />
-        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/main.css" />
-        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" />
         <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_header.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/main.css" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_footer.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example.sass" />
+        <option value="$PROJECT_DIR$/Jeroen_Opdracht_Webshop/public_html/car-details.php" />
+        <option value="$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php" />
       </list>
     </option>
   </component>
@@ -215,15 +184,14 @@
               <item name="Auto_Shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Auto_Shop" type="462c0819:PsiDirectoryNode" />
               <item name="dev.Jeroen_Opdracht_Web" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="backup" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Auto_Shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Auto_Shop" type="462c0819:PsiDirectoryNode" />
               <item name="dev.Jeroen_Opdracht_Web" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
+              <item name="demo_envoirment" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,16 +252,15 @@
       <workItem from="1556970815737" duration="31774000" />
       <workItem from="1557019829870" duration="3183000" />
       <workItem from="1557023952156" duration="116000" />
-      <workItem from="1557024254797" duration="755000" />
+      <workItem from="1557024254797" duration="4783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74496000" />
+    <option name="totallyTimeSpent" value="78524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1242" y="23" width="1318" height="1346" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
@@ -388,13 +355,6 @@
     <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/css/backup/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/public_html/car-details.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/css/main.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -414,22 +374,8 @@
     <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/css/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/style.css" />
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_partials.sass" />
-    <entry file="file://$PROJECT_DIR$/git">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" selection-start-line="11" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_colors.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -453,59 +399,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass">
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_header.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/backup/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_car-details-page.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_footer.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="68" lean-forward="true" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="39" />
+        <state relative-caret-position="826">
+          <caret line="161" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="161" />
         </state>
       </provider>
     </entry>
@@ -516,17 +420,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_header.sass">
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="826">
+          <caret line="324" selection-start-line="324" selection-end-line="324" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/public_html/car-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-854">
+          <caret line="31" column="68" lean-forward="true" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_reset.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_car-details-page.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="31" lean-forward="true" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/main.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="31" />
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_example.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/css/_footer.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeroen_Opdracht_Webshop/public_html/car-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="98" lean-forward="true" selection-start-line="63" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.Jeroen_Opdracht_Web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
