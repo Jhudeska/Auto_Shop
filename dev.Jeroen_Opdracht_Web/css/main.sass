@@ -3,9 +3,8 @@
 @import "header"
 @import "footer"
 @import "car-details-page"
-
-
-
+@import "extends"
+@import "mixins"
 
 .container
   position: absolute
@@ -14,132 +13,134 @@
   top: 350px
   transform: translate(0%, 50%)
 
-//.main
-//  overflow: auto
-//  padding: 100px
-//  height: 2000px
-//  background-color: red
-//
-////.model-box
+.main
+  position: relative
+  //left: 50%
+  //top: 50%
+  overflow: auto
+  padding: 100px
+  height: 2000px
+  background-color: transparent
 
-.model-preview-index-large-first
+
+.model-box
+  margin: 0 10%
+  transform: translate(50%, 50%)
+
+
+.model-preview-block
   position: relative
   width: 233px
+  height: 270px
+  float: left
+
+
+
+.model-preview-block-middle
+  position: relative
+  width: 233px
+  height: 189px
+  float: left
+
+.model-box-index-large
+  position: relative
+  padding: 10px
+  width: 235px
   height: 257px
   /*height: 100%;*/
   float: left
-  color: white
+  color: $white
   text-align: center
-  background-image: linear-gradient(to right bottom, rgb(119, 160, 158),rgb(119, 160, 158))
-  clip-path: polygon(0 0, 100% 0, 100% 24vh, 0 100%)
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%)
+  z-index: 20
+
+
+.model-box-index-small
+  width: 236px
+  height: 189px
+  /*height: 240px;*/
+  float: left
+  text-align: center
+  color: #ffffff
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%)
+  position: relative
+  z-index: 20
+
+
+
+.model-box-index-large-first
+  background-image: linear-gradient(to right bottom, $primary-color, $primary-color)
   left: 1px
 
+.model-box-index-large-last
+  background-image: linear-gradient(to right bottom, $third-color, $third-color)
+  left: 2px
 
-//
-//.demo-2-first
-//  width: 233px
-//  height: 177px
-//  position: absolute
-//  z-index: -1
-//  bottom: 50%
-//  top: 225px
-//  left: 1px
-//
-//
-//.demo-2-first img
-//  width: 233px
-//  height: 177px
-//
-//
-//
-//.demo-2-middle img
-//  position: relative
-//  width: 234px
-//  height: 178px
-//  left: -234px
-//  bottom: -183px
-//  z-index: -1
-//
-//.model-preview-index-small
-//  width: 233px
-//  height: 189px
-//  /*height: 240px;*/
-//  float: left
-//  text-align: center
-//  color: #ffffff
-//
-//  /* center model-preview-index-small */
-//  -ms-transform: translateY(-50%)
-//  transform: translateY(9%)
-//  background-image: linear-gradient(to right bottom, rgb(121, 178, 172),rgb(121, 178, 172))
-//  clip-path: polygon(0 0, 100% 0, 100% 17vh, 0 100%)
-//  top: 7px
-//  position: relative
-//
-//
-//.model-preview-index-large-last
-//  position: relative
-//  width: 233px
-//  height: 257px
-//  /*height: 100%;*/
-//  float: left
-//  color: white
-//  text-align: center
-//  background-image: linear-gradient(to right bottom, rgb(50, 172, 149),rgb(50, 172, 149))
-//  clip-path: polygon(0 0, 100% 0, 100% 24vh, 0 100%)
-//  top: -181px
-//  left: -1px
-//
-//
-//.demo-2-last
-//  width: 233px
-//  height: 177px
-//  position: absolute
-//  z-index: -1
-//  bottom: 50%
-//  top: 225px
-//
-//
-//.demo-2-last img
-//  position: relative
-//  width: 233px
-//  height: 177px
-//  left: 466px
-//  z-index: -1
-//
-//.title
-//  display: inline-block
-//  z-index: 10
-//
-//.description
-//  margin-bottom: 10px
-//  z-index: 10
-//
-//.type
-//  margin-bottom: 10px
-//  z-index: 10
-//
-//
-//.price
-//  margin-bottom: 15px
-//  z-index: 10
-//
-//
-//
-///*style button*/
-//.btn
-//  width: 214px
-//  height: 39px
-//  display: inline-block
-//  margin-top: 10px
-//  margin-bottom: 10px
-//
-//
-//
-//.btn-white
-//  background-color: #ffffff
-//  color: #000
-//  border-color: #ffffff
-//  font-size: 14px
-//  z-index: 10
-//
+
+.model-box-index-small-middle
+  /* center model-preview-index-small */
+  -ms-transform: translateY(-50%)
+  transform: translateY(9%)
+  background-image: linear-gradient(to right bottom, $secondary-color, $secondary-color)
+  top: 47px
+
+
+
+
+.modal-title
+  display: inline-block
+
+.modal-type
+  margin-bottom: 10px
+
+.modal-description
+  margin-bottom: 10px
+
+.modal-price
+  margin-bottom: 15px
+
+.modal-image
+  width: 233px
+  height: 177px
+  position: relative
+  z-index: 0
+  bottom: 50%
+  top: 225px
+  left: 1px
+
+.modal-image-large img
+  position: relative
+  width: 233px
+  height: 177px
+  top: -60px
+  z-index: 1
+  left: 3px
+
+
+
+.modal-image-small img
+  position: relative
+  width: 233px
+  height: 178px
+  top: 11px
+  z-index: -30
+  left: 3px
+
+
+/*style button*/
+.btn
+  width: 214px
+  height: 39px
+  display: inline-block
+  margin-top: 10px
+  margin-bottom: 10px
+
+
+
+.btn-white
+  background-color: #ffffff
+  color: #000
+  border-color: #ffffff
+  font-size: 14px
+  z-index: 10
+

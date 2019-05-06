@@ -1,14 +1,42 @@
 .footer
-  position: relative
+  position: fixed
   width: 100%
-  height: 229px
-  background-color: $gray-black
+  height: 300px
+  background-color: $light-gray
   color: $white
-  padding: 40px 80px
-  bottom: 0px
-  left: 0px
-  margin-top: -229px
+  padding: 50px 80px
+  bottom: 0
+  left: 0
+  margin-top: -250px
   clear: both
+
+.footer-main-box
+  margin: 0 10%
+  transform: translate(0%, 50%)
+
+span.contact-address-row
+  display: block
+
+.contact-address-row::before
+  display: inline-block
+  width: 20px
+  height: 20px
+  content: ".."
+  vertical-align: middle
+  margin-right: 9px
+  color: $light-gray
+
+.footer-email::before
+  @extend %footer-icons-position
+  content: url("../img/icons/at-solid.svg")
+
+.footer-phonenumber::before
+  @extend %footer-icons-position
+  content: url("../img/icons/phone-solid.svg")
+
+.footer-address::before
+  @extend %footer-icons-position
+  content: url("../img/icons/map-signs-solid.svg")
 
 
 .contact-details-box
@@ -24,23 +52,19 @@
   left: 50%
   top: 0%
 
-.li-items::before
-  position: relative
-  content: " < "
-  //background-position: left center
-  top: -20%
-
 .about-box
   position: absolute
   width: 40%
   height: 94%
   top: 20%
 
-
 .about-title, .about-text, .about-social
-  display: inline-block
+  display: block
   position: relative
   left: 100%
-  z-index: 10
+  padding: 4%
 
-
+  .about-social-icons
+    display: inline-block
+    height: 30px
+    width: 30px

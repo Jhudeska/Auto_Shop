@@ -49,7 +49,7 @@ Done installing documentation for sass after 6 seconds
 e
 
 
- sass --watch styles.sass:css/style.css
+sass --watch main.sass:main.css
 
 
 CM TO Pixel converter

@@ -6,15 +6,15 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/css/main.css">
-    <link rel="shortcut icon" type="image/png" href="../img/icons/kiss-dashboard.png">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+    <link rel="shortcut icon" type="image/png" href="../img/kiss-dashboard.png">
      <title> Jhudeska | dev.Jeroen_Opracht</title>
 </head>
 <body>
 
 <header class="header">
     <div class="logo-box">
-        <img src="img/logo@2x.png" alt="logo" class="logo">
+        <img src="../img/logo@2x.png" alt="logo" class="logo">
     </div>
 
     <div class="heading-primary">
