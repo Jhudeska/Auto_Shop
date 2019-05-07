@@ -1,24 +1,21 @@
 
-@import "colors"
+@import "variables"
 
 *
   margin: 0
   padding: 0
+  border: 0
   box-sizing: border-box
 
 body
   font-family: roboto, sans-serif
-  position: relative
   font-size: 16px
   line-height: 1.4
   color: $black
-  background-color: $white
-  margin: 0
+  background-color: $background-color
+  margin: 0 auto
+  max-width: 1024px
 
-
-img
-  width: 320px
-  height: 200px
 
 ul, ol
   list-style: none
@@ -26,27 +23,17 @@ ul, ol
 li
   padding: 8px
 
-.li-items::before
-  position: relative
-  content: " < "
-  top: -20%
-
 h2
   color: $white
 
+p
+  text-align: justify
 
 
 a
-    color: $third-color
+  color: $third-color
+  text-decoration: none
 
-  link
-    color: red
 
-  visited
-    color: greenyellow
-
-  hover
-    color: deeppink
-
-  active
-      color: orangered
+html
+  margin: 0 auto

@@ -3,7 +3,7 @@
 
 <?php require_once 'header.php';?>
 
-<section class="container">
+<section class="wrapper">
 
     <div class="main">
 
@@ -14,7 +14,7 @@
                     <div class="-modal-type">Active</div>
                     <div class="modal-description"> Stoere basis</div>
                     <div class="modal-price">Vanaf €15.830</div>
-                    <button onclick="location.href='car-details.php'" class="btn btn-white">Bekijk onze Fabia's</button>
+                    <button onclick="location.href='car-details-fabia.php'" class="btn btn-white">Bekijk onze Fabia's</button>
                 </div>
                 <div class="modal-image-large"><img src="../img/Skoda_Fabia.jpg" alt="Fabia foto"></div>
             </div>
@@ -26,7 +26,7 @@
                         <div class="model-box-index-small model-box-index-small-middle">
                             <div class="modal-title"><h2>KODIAQ</h2></div>
                             <div class="modal-type">Comfort</div>
-                            <button class="btn btn-white">Bekijk onze Kodiaq's</button>
+                            <button onclick="location.href='car-details-fabia.php'" class="btn btn-white">Bekijk onze Kodiaq's</button>
                         </div>
                         <div class="modal-image-small"><img src="../img/Skoda_Kodiaq.jpg" alt="Kodiaq foto"></div>
                     </div>
@@ -41,7 +41,7 @@
                     <div class="-modal-type">Comfort</div>
                     <div class="modal-description"> Stoere basis</div>
                     <div class="modal-price">Vanaf €24.890</div>
-                    <button onclick="location.href='car-details.php'" class="btn btn-white">Bekijk onze Octavia's</button>
+                    <button onclick="location.href='car-details-fabia.php'" class="btn btn-white">Bekijk onze Octavia's</button>
                 </div>
                 <div class="modal-image-large"><img src="../img/Skodia_Octavia.jpg" alt="Octavia foto"></div>
             </div>

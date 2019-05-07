@@ -11,7 +11,7 @@
      <title> Jhudeska | dev.Jeroen_Opracht</title>
 </head>
 <body>
-
+<div id="wrapper">
 <header class="header">
     <div class="logo-box">
         <img src="../img/logo@2x.png" alt="logo" class="logo">

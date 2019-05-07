@@ -1,70 +1,68 @@
 .footer
   position: fixed
   width: 100%
-  height: 300px
-  background-color: $light-gray
+  height: 30%
+  background-color: $gray-black
   color: $white
-  padding: 50px 80px
+  padding: 1% 10%
   bottom: 0
   left: 0
   margin-top: -250px
   clear: both
 
 .footer-main-box
-  margin: 0 10%
-  transform: translate(0%, 50%)
+  margin: 0 auto
+
 
 span.contact-address-row
   display: block
+
 
 .contact-address-row::before
   display: inline-block
   width: 20px
   height: 20px
-  content: ".."
+  content: " "
   vertical-align: middle
   margin-right: 9px
-  color: $light-gray
+
 
 .footer-email::before
   @extend %footer-icons-position
   content: url("../img/icons/at-solid.svg")
 
+
 .footer-phonenumber::before
   @extend %footer-icons-position
-  content: url("../img/icons/phone-solid.svg")
+  content: url("../img/icons/telephone.svg")
 
 .footer-address::before
   @extend %footer-icons-position
   content: url("../img/icons/map-signs-solid.svg")
 
 
-.contact-details-box
-  position: absolute
-  width: 50%
-  height: 94%
-
+.about-details-box, .contact-details-box
+  margin: 0 auto
+  padding: 5%
 
 .about-details-box
-  position: absolute
-  width: 50%
-  height: 94%
-  left: 50%
-  top: 0%
+  float: left
 
-.about-box
-  position: absolute
-  width: 40%
-  height: 94%
-  top: 20%
+.contact-details-box
+  float: right
 
-.about-title, .about-text, .about-social
-  display: block
-  position: relative
-  left: 100%
-  padding: 4%
 
-  .about-social-icons
-    display: inline-block
-    height: 30px
-    width: 30px
+.about-title
+  margin-bottom: 3%
+
+.about-text
+  padding: 2%
+
+.about-social
+  padding: 3%
+
+
+.about-social-icons
+  display: inline-block
+  height: 30px
+  width: 30px

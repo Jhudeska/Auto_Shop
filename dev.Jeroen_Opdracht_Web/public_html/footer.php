@@ -9,7 +9,6 @@
             </ul>
         </div>
         <div class="about-details-box">
-            <div class="about-box">
                 <div class="about-title"><h2>About the Company</h2></div>
                 <div class="about-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Ducimus eaque facilis fugiat ipsa <br>ipsum molestias nulla optio quaerat.</div>
                 <div class="about-social">
@@ -18,11 +17,11 @@
                     <img class="about-social-icons" src="../img/icons/linkedin-brands.svg" alt="linkedin icon">
                     <img class="about-social-icons" src="../img/icons/twitter-square-brands.svg" alt="twitter icon">
                 </div>
-            </div>
         </div>
 
     </div>
 </footer>
 
+</div>
 </body>
 </html>
