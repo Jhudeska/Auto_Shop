@@ -56,3 +56,65 @@ CM TO Pixel converter
 =====================
 
 https://www.vesterkopi.dk/en/help/561git re-convert-cm-to-pixels
+
+
+
+
+CSS
+    /*
+     *{} ===> 0
+     type selector ===> 1     (example  p)
+     .classes ==> 10
+     #id ===> 100
+     inline styles ==> 1000
+
+    cascading = top to bottom
+
+    Specificity
+    p.firstParagraph  == 1 (p) + 10 (.firstParagraph class )
+    Everything that is more  specific the will apply
+    */
+
+    css source:  https://www.youtube.com/watch?v=P4x9GyqBWE0&list=PLkBfv4fGBau81ldUMNZszy9qNkaKdonQ_&index=4
+
+    propperty :  T R B L;  { Top, Right, Bottom, Let}
+    propperty :  T/B px  R/Lpx ;  { Top/Bottom Right/Let}
+    propperty :  TRBLpx ;  { T R B L all sides will have the same value }
+
+    <div class="container">
+        <div class="box left">
+            <h2>First</h2>
+            <p>
+                Lorem ipsum dolor sit amet,
+                consectetur adipisicing elit. Ad assumenda
+                beatae dignissimos eum odit pariatur provident
+                quia reiciendis, rem sed similique sunt,
+                temporibus vel! Dolorem doloribus
+                illo quibusdam quo vel.
+                Lorem ipsum dolor sit amet,
+                consectetur adipisicing elit. Ad assumenda
+                beatae dignissimos eum odit pariatur provident
+                quia reiciendis, rem sed similique sunt,
+                temporibus vel! Dolorem doloribus
+                illo quibusdam quo vel.
+            </p>
+        </div>
+
+
+        .box {
+        width: calc(25% -24px);
+        /*==> -24px == 2 * 2px borderline & 2 * 10px padding
+        /*width: 200px;*/
+        border: 2px solid lightgray;
+        color: black;
+        padding: 10px;
+        }
+
+        box-sizing: border-box; // padding and borders will be part of the width itself (border-box) margin should be calc()
+        because there is no margin-box
+
+
+
+
+https://orangelease.nl/
+https://citroenvanbeek.nl/personenwagens/

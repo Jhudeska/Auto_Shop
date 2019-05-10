@@ -5,26 +5,33 @@
 @import "car-details-page"
 @import "extends"
 @import "mixins"
+@import "buttons"
+
+
+//.col
+//  border: 1px dotted red
+//  height: 100%
 
 .wrapper
   background-color: $white
-  //position: absolute
-  //width: 100%
-  //min-height: 100%
-  //top: 350px
-  //transform: translate(0%, 50%)
-
-.container
   position: absolute
   width: 100%
   min-height: 100%
   top: 350px
   transform: translate(0%, 50%)
 
+#container
+  position: absolute
+  width: 100%
+  min-height: 100%
+  top: 350px
+  transform: translate(0%, 50%)
+
+
 .main
   position: relative
-  //left: 50%
-  //top: 50%
+  left: 50%
+  top: 50%
   overflow: auto
   padding: 100px
   height: 20000px
@@ -134,21 +141,4 @@
   z-index: -30
   left: 3px
 
-
-/*style button*/
-.btn
-  width: 214px
-  height: 39px
-  display: inline-block
-  margin-top: 10px
-  margin-bottom: 10px
-
-
-
-.btn-white
-  background-color: #ffffff
-  color: #000
-  border-color: #ffffff
-  font-size: 14px
-  z-index: 10
 
