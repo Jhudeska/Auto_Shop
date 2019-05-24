@@ -118,3 +118,10 @@ CSS
 
 https://orangelease.nl/
 https://citroenvanbeek.nl/personenwagens/
+
+
+<!--                            <div class="form-row text-center col-6">-->
+<!--                                <input class="mr-2" type="radio" checked="checked" name="radio" id="aanhef"> Dhr.-->
+<!--                                <input class="mr-2 ml-4" type="radio" name="radio" id="aanhef"> Mevr.-->
+<!--                                <span class="checkmark"></span>-->
+<!--                            </div>-->
